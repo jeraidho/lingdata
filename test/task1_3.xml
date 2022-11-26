@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>AranRusj_x</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="54">[lemma=&quot;центр&quot;] within [word=&quot;.*инг&quot;] [lemma=&quot;центр&quot;]</subquery>
+  </query>
+</header>
+<collocations>
+  <item>
+    <str>коворкинг</str>
+    <freq>2</freq>
+    <collfreq>19</collfreq>
+    <score type="T-score">1.41421</score>
+    <score type="MI">17.83755</score>
+    <score type="logDice">9.81018</score>
+  </item>
+  <item>
+    <str>дайвинг</str>
+    <freq>10</freq>
+    <collfreq>433</collfreq>
+    <score type="T-score">3.16222</score>
+    <score type="MI">15.64919</score>
+    <score type="logDice">9.39415</score>
+  </item>
+  <item>
+    <str>андеррайтинг</str>
+    <freq>1</freq>
+    <collfreq>6</collfreq>
+    <score type="T-score">1.00000</score>
+    <score type="MI">18.50052</score>
+    <score type="logDice">9.09311</score>
+  </item>
+  <item>
+    <str>рэнкинг</str>
+    <freq>1</freq>
+    <collfreq>12</collfreq>
+    <score type="T-score">0.99999</score>
+    <score type="MI">17.50052</score>
+    <score type="logDice">8.95561</score>
+  </item>
+  <item>
+    <str>боулинг</str>
+    <freq>4</freq>
+    <collfreq>231</collfreq>
+    <score type="T-score">1.99995</score>
+    <score type="MI">15.23373</score>
+    <score type="logDice">8.84518</score>
+  </item>
+  <item>
+    <str>мерчендайзинг</str>
+    <freq>1</freq>
+    <collfreq>24</collfreq>
+    <score type="T-score">0.99999</score>
+    <score type="MI">16.50052</score>
+    <score type="logDice">8.71460</score>
+  </item>
+  <item>
+    <str>шопинг</str>
+    <freq>3</freq>
+    <collfreq>250</collfreq>
+    <score type="T-score">1.73199</score>
+    <score type="MI">14.70466</score>
+    <score type="logDice">8.33703</score>
+  </item>
+  <item>
+    <str>шоппинг</str>
+    <freq>2</freq>
+    <collfreq>346</collfreq>
+    <score type="T-score">1.41410</score>
+    <score type="MI">13.65085</score>
+    <score type="logDice">7.35614</score>
+  </item>
+  <item>
+    <str>тренинг</str>
+    <freq>24</freq>
+    <collfreq>4764</collfreq>
+    <score type="T-score">4.89854</score>
+    <score type="MI">13.45249</score>
+    <score type="logDice">7.35074</score>
+  </item>
+  <item>
+    <str>серфинг</str>
+    <freq>1</freq>
+    <collfreq>458</collfreq>
+    <score type="T-score">0.99979</score>
+    <score type="MI">12.24628</score>
+    <score type="logDice">6.00000</score>
+  </item>
+  <item>
+    <str>консалтинг</str>
+    <freq>1</freq>
+    <collfreq>1107</collfreq>
+    <score type="T-score">0.99950</score>
+    <score type="MI">10.97304</score>
+    <score type="logDice">4.81885</score>
+  </item>
+  <item>
+    <str>хостинг</str>
+    <freq>2</freq>
+    <collfreq>2503</collfreq>
+    <score type="T-score">1.41342</score>
+    <score type="MI">10.79604</score>
+    <score type="logDice">4.67976</score>
+  </item>
+  <item>
+    <str>холдинг</str>
+    <freq>1</freq>
+    <collfreq>2275</collfreq>
+    <score type="T-score">0.99898</score>
+    <score type="MI">9.93383</score>
+    <score type="logDice">3.81451</score>
+  </item>
+</collocations>
+</export>
